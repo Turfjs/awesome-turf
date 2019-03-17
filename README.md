@@ -24,6 +24,8 @@ A curated list of Projects using Turf.js
 
 ## Turfjs Resources
 
+A curated list of resources based on Turf.js
+
 ###  Official Resources
 - [Official Documentation](http://turfjs.org)
 - [Analyze data with Turf.js and Mapbox GL JS](https://docs.mapbox.com/help/tutorials/analysis-with-turf/)
@@ -36,6 +38,7 @@ A curated list of Projects using Turf.js
 
 
 ###  Community
+- [Twitter](https://twitter.com/turfjs)
 
 
 ## Contribute

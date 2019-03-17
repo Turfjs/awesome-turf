@@ -19,11 +19,22 @@
 ## Projects using Turfjs
 
 A curated list of Projects using Turf.js
+- [eHealth Africa Field Tracking System](https://www.ehealthafrica.org/blog/2018/7/31/field-tracking-system-transparency-and-efficiency-redefined)
+
 
 ## Turfjs Resources
 
 ###  Official Resources
+- [Official Documentation](http://turfjs.org)
+- [Analyze data with Turf.js and Mapbox GL JS](https://docs.mapbox.com/help/tutorials/analysis-with-turf/)
+
+
 ###  External Resources
+- [GeoSpatial Analysis with JavaScript (Turf.js)](https://medium.com/@timtech4u/geospatial-analysis-with-javascript-turf-js-%EF%B8%8F-b6a73de50286)
+- [Introduction to Turf.JS – JavaScript library for Geospatial Analysis.](http://somideolaoye.com/blog/introduction-to-turf-js-javascript-library-for-geospatial-analysis/)
+- [Spatial Analaysis in Leaflet using Turf.js](https://www.youtube.com/watch?v=OGJ27rfySP0)
+
+
 ###  Community
 
 

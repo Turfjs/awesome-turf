@@ -20,6 +20,7 @@
 
 A curated list of Projects using Turf.js
 - [eHealth Africa Field Tracking System](https://www.ehealthafrica.org/blog/2018/7/31/field-tracking-system-transparency-and-efficiency-redefined)
+- Implementation of the Minimum Bounding Box algortihm using only Turf.js: [geojson-minimum-bounding-rectangle](https://github.com/matthiasfeist/geojson-minimum-bounding-rectangle)
 
 
 ## Turfjs Resources
